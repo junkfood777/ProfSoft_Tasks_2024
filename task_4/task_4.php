@@ -27,9 +27,9 @@ function binarySearch($sortedArray, $target)
 $inputFileName = "input.txt";
 $outputFileName = "output.txt";
 
-$inputContents = file_get_contents($inputFileName);
+$inputData = file_get_contents($inputFileName);
 
-$numbers = array_map('intval', explode(' ', $inputContents));
+$numbers = array_map('intval', explode(' ', $inputData));
 
 $searchElement = end($numbers);
 

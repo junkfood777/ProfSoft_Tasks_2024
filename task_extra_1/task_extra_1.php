@@ -29,9 +29,9 @@ function isCorrectBracketSequence($input) {
 $inputFile = 'input.txt';
 $outputFile = 'output.txt';
 
-$input = file_get_contents($inputFile);
+$inputData = file_get_contents($inputFile);
 
-$result = isCorrectBracketSequence($input);
+$result = isCorrectBracketSequence($inputData);
 
 file_put_contents($outputFile, $result ? 'правильно' : 'не правильно');
 
