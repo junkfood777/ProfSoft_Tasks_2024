@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51fe9301-97fa-42cb-8b71-42694b6527fc" name="Changes" comment="" />
+    <list default="true" id="3346a7ad-d602-4f14-bac9-3f36dc5fb831" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_extra_1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/task_3.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,16 +27,15 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\php\php.exe" />
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2gSh6VSX0yah35hxaMKQpXi9OLw" />
+  <component name="ProjectId" id="2gSldJSXcsIKXBw3pBOUiBXV29l" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "PHP Script.task_4.php.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -49,12 +57,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="51fe9301-97fa-42cb-8b71-42694b6527fc" name="Changes" comment="" />
-      <created>1715696710301</created>
+      <changelist id="3346a7ad-d602-4f14-bac9-3f36dc5fb831" name="Changes" comment="" />
+      <created>1715698946232</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715696710301</updated>
-      <workItem from="1715696711412" duration="1483000" />
+      <updated>1715698946232</updated>
+      <workItem from="1715698947301" duration="628000" />
     </task>
     <servers />
   </component>
